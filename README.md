@@ -5,7 +5,7 @@ Repositori ini berisi dua implementasi algoritma dari buku *Artificial Intellige
 1. **A\* Search** untuk pencarian jalur terpendek dalam grid 2D.
 2. **Decision Tree (ID3)** untuk klasifikasi kelayakan kredit berdasarkan data nasabah.
 
-Proyek ini dibuat sebagai bagian dari tugas akhir mata kuliah **Kecerdasan Buatan**.
+Proyek ini dibuat sebagai bagian dari Ujian Akhir Semester mata kuliah **Kecerdasan Buatan**.
 
 ---
 
@@ -39,6 +39,14 @@ Jalur terpendek: [(0, 0), (1, 0), (2, 0), (2, 1), (2, 2), (1, 2), (0, 2), (0, 3)
 
 ### ▶️ Cara Menjalankan
 
+Jika menggunakan Jupyter Notebook
+1. Upload file di Jupyter Notebook
+2. Run program (Ctrl + Enter/Command + Enter)
+
+Jika menggunakan Vscode
+1. Buka file python
+2. Buat terminal baru
+3. Run program dengan command di terminal:
 ```bash
 python a_star.py
 ```
@@ -63,6 +71,9 @@ Algoritma **ID3 (Iterative Dichotomiser 3)** digunakan untuk membangun pohon kep
 
 ### 📊 Contoh Data
 
+* Dataset dari kaggle:
+https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
+
 ```
 usia,pendapatan,pekerjaan,status,kelayakan
 muda,tinggi,tetap,belum,tidak
@@ -76,6 +87,15 @@ Program akan mencetak struktur pohon ke terminal dan menghasilkan diagram visual
 
 ### ▶️ Cara Menjalankan
 
+Jika menggunakan Jupyter Notebook
+1. Upload file di Jupyter Notebook
+2. Sesuaikan Path data csv-mu
+3. Run program (Ctrl + Enter/Command + Enter)
+
+Jika menggunakan Vscode
+1. Sesuaikan Path data csv-mu
+2. Buat terminal baru
+3. Run program dengan command di terminal:
 ```bash
 python id3_tree.py
 ```
