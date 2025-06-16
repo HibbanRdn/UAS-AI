@@ -116,6 +116,6 @@ python id3_tree.py
 > **Mata Kuliah:** Kecerdasan Buatan
 > **Kelas:** PSTI B
 > **Tahun Ajaran:** 2024/2025
-> **Dosen Pengampu:** Rio Ardi Ferdian
+> **Dosen Pengampu:** Rio Ariestia Pradipta, S.Kom, M.T.I.
 
 ---
