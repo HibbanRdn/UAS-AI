@@ -114,6 +114,7 @@ python id3_tree.py
 
 > **Nama:** M. Hibban Ramadhan
 > **Mata Kuliah:** Kecerdasan Buatan
+> **Kelas:** PSTI B
 > **Tahun Ajaran:** 2025
 > **Dosen Pengampu:** Rio Ardi Ferdian
 
